@@ -1,3 +1,3 @@
 # Side Projects
 
-Various scripts written for client and personal usage
+Various freelance scripts written for clients
