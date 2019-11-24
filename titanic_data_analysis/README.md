@@ -3,4 +3,4 @@ Using Excel(EDA) + Python(Logistic Regression) to analysis the survivability of 
 Some of the conclusions drawn in both instances is class, gender and age were the main factors in determining 
 whether you could survive the crash of the Titanic.
 
-Also, Jack didn't need to save Rose.
+Also, Jack didn't need to save Rose. Rose's chances of survival was a whopping 94%. Jack only 11%.
