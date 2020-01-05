@@ -1,3 +1,3 @@
 # Side Projects
 
-Various side projects done for training or client purposes
+Various side projects completed for client training or freelance purposes
