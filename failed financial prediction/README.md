@@ -1,4 +1,4 @@
-Attempted to utilize normal machine learning model methods to predict stock prices using balance sheet data. 
+Attempted to use normal machine learning model methods to predict stock prices through balance sheet data. 
 
 The accuracy was horrible!
 
